@@ -19,7 +19,9 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 
 **Week 5**
 
-* [Pattern Party Style Guide](http://frontend.turing.io/projects/pattrn-party.html) - links to GitHub repo and GitHub pages site
+* [Pattern Party Style Guide](http://frontend.turing.io/projects/pattrn-party.html) - links to GitHub repo and GitHub pages site . 
+* [Repo](https://github.com/meloncatty/pattrn-party)
+* [Github Pages](https://meloncatty.github.io/pattrn-party)
 
 ---
 
