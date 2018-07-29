@@ -20,8 +20,8 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 **Week 5**
 
 * [Pattern Party Style Guide](http://frontend.turing.io/projects/pattrn-party.html) - links to GitHub repo and GitHub pages site . 
-* [Repo](https://github.com/meloncatty/pattrn-party)
-* [Github Pages](https://meloncatty.github.io/pattrn-party)
+* [Repo]()
+* [Github Pages]()
 
 ---
 
@@ -135,8 +135,8 @@ I did the first three additional problems - Add a client-side JavaScript file, M
 * [Promise Practice Exercises](https://gist.github.com/meloncatty/ad65447ebe95b4b4fe367031a436fff8)
 * [House of Vars Blog Post](https://medium.com/@petalhead/my-first-open-source-contribution-a9865801a3ca)
 * [Websockets Tutorial]() - What additional items did you work on?
-* [Pattern Party Repo]()
-* [Pattern Party GitHub Pages]()
+* [Pattern Party Repo](https://github.com/meloncatty/pattrn-party)
+* [Pattern Party Github Pages](https://meloncatty.github.io/pattrn-party)
 
 ### Sage Vogt
 
